@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am passionate about Artificial Intelligence and 
 
 ## About Me
 
-- 🎓 **Learner**: Currently immersing myself in the fascinating world of Artificial Intelligence.
+- 🎓 **Learner**: Currently a third-year university student majoring in Artificial Intelligence.
 - 💡 **Innovator**: Always excited about new challenges and opportunities to advance AI.
 - 🛠️ **Hands-on Experience**: Equipped with a solid foundation in AI through academic and practical experiences.
 - 📚 **Active Learner**: Enthusiastic about expanding my knowledge and skills.
