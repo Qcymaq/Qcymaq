@@ -1,18 +1,12 @@
-# Hi, I'm Mai Anh Quan 👋
+# Mai Anh Quan
 
-Welcome to my GitHub profile! I am passionate about Artificial Intelligence and dedicated to developing innovative solutions that benefit people. My journey in AI is fueled by a commitment to continuous learning and a drive to create impactful technologies.
+**AI graduate · Computer vision & full-stack AI apps**
 
-## About Me
+Ho Chi Minh City, Vietnam (UTC+7) · Open to freelance projects and full-time roles
 
-- 🎓 **Learner**: Currently a second-year university student majoring in Artificial Intelligence.
-- 💡 **Innovator**: Always excited about new challenges and opportunities to advance AI.
-- 🛠️ **Hands-on Experience**: Equipped with a solid foundation in AI through academic and practical experiences.
-- 📚 **Active Learner**: Enthusiastic about expanding my knowledge and skills.
-- 👂 **Attentive Listener**: Focused on understanding and solving real-world problems.
-
-## My Vision
-
-I am committed to driving progress in AI and making a meaningful impact in the field. My goal is to apply my expertise to groundbreaking AI projects that advance the technology and solve real-world challenges. 
+I build AI systems end to end: model integration, backend, frontend, and deployment with Docker.
+I enjoy working with clients to turn a business problem into a working product.
+I have led small teams on both product and research projects.
 
 ## Contact
 
