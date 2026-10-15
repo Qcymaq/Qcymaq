@@ -15,6 +15,24 @@ I have led small teams on both product and research projects.
 - **[Colorize](https://github.com/Qcymaq/Colorization-for-grayscale-images)** – Black-and-white photo colorization with ControlNet + Stable Diffusion, with a FastAPI inference endpoint and a Streamlit UI. *Team lead; I wrote the data preparation, the inference API, the Streamlit UI, and the model cache.*
 - **[Vietnamese traditional music genre classification](https://github.com/Qcymaq/PCRNN-CRNN-VNTM-MGC)** – CRNN/PCRNN audio classification models. *2 conference papers: ICCRI 2024 (corresponding author) and JCSSE 2024, IEEE (co-author). 3rd prize, FPT ResFes 2024, Research category.*
 
+## What I can build for you
+
+- Computer-vision video analytics on your existing cameras (people counting, zone alerts), running on-prem
+- A web app around your AI prototype (FastAPI, Next.js/React, WebSockets, Docker)
+- Web apps with AI features and an admin dashboard
+- Image generation and photo colorization with diffusion models
+- Audio and image classification models
+
+## Tech I have used in real projects
+
+- **Languages:** Python, SQL, TypeScript
+- **Backend and web:** FastAPI, Streamlit, Next.js, React
+- **Databases:** MongoDB, PostgreSQL
+- **AI / ML:** PyTorch, TensorFlow/Keras, YOLOv8, DeepSORT, ONNX Runtime, Stable Diffusion, ControlNet
+- **Tools:** Docker, Git, Ubuntu/WSL, Power BI, LaTeX
+
+Also familiar with: AWS
+
 ## Contact
 
 - **Email:** [quanmaianh.work@gmail.com](mailto:quanmaianh.work@gmail.com)
