@@ -33,6 +33,19 @@ I have led small teams on both product and research projects.
 
 Also familiar with: AWS
 
+## Experience
+
+- **Pythera AI** – AI Intern & Sub-team Leader (09/2024 – 02/2025). Volunteered to lead a 3-person research sub-team on color restoration of low-light photos; wrote step-by-step onboarding SOPs in Notion.
+- **Cinnamon AI Bootcamp 2024** – Trainee (06/2024 – 08/2024). Worked on team projects; wrote the CLIP image-encoding module of a team image-search project.
+
+## Education
+
+- **B.Sc. in Artificial Intelligence**, FPT University Ho Chi Minh City (2022 – 2026)
+
+## Languages
+
+Vietnamese (native) · English · German (learning)
+
 ## Contact
 
 - **Email:** [quanmaianh.work@gmail.com](mailto:quanmaianh.work@gmail.com)
