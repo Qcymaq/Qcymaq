@@ -17,11 +17,11 @@ I have led small teams on both product and research projects.
 
 ## What I can build for you
 
-- Computer-vision video analytics on your existing cameras (people counting, zone alerts), running on-prem
+- Integrating computer-vision models into a working video-analytics app (people counting, zone alerts) on your existing cameras, running on-prem
 - A web app around your AI prototype (FastAPI, Next.js/React, WebSockets, Docker)
 - Web apps with AI features and an admin dashboard
-- Image generation and photo colorization with diffusion models
-- Audio and image classification models
+- Photo colorization with diffusion models (ControlNet + Stable Diffusion)
+- Audio classification models (CRNN/PCRNN)
 
 ## Tech I have used in real projects
 
