@@ -14,10 +14,8 @@ Welcome to my GitHub profile! I am passionate about Artificial Intelligence and 
 
 I am committed to driving progress in AI and making a meaningful impact in the field. My goal is to apply my expertise to groundbreaking AI projects that advance the technology and solve real-world challenges. 
 
-## Let's Connect!
+## Contact
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/mai-anh-quan)
-- **Email**: Feel free to reach out to me at quancsf@gmail.com
-- **GitHub**: Check out my projects and contributions at [https://github.com/Qcymaq](https://github.com/Qcymaq)
-
-Thank you for visiting my profile! Together, let's drive the future of AI forward.
+- **Email:** [quanmaianh.work@gmail.com](mailto:quanmaianh.work@gmail.com)
+- **LinkedIn:** [linkedin.com/in/maq159](https://www.linkedin.com/in/maq159)
+- **GitHub:** [all repositories](https://github.com/Qcymaq?tab=repositories)
