@@ -29,9 +29,8 @@ I have led small teams on both product and research projects.
 - **Backend and web:** FastAPI, Streamlit, Next.js, React
 - **Databases:** MongoDB, PostgreSQL
 - **AI / ML:** PyTorch, TensorFlow/Keras, YOLOv8, DeepSORT, ONNX Runtime, Stable Diffusion, ControlNet
-- **Tools:** Docker, Git, Ubuntu/WSL
-
-Also familiar with: AWS
+- **Data and BI:** Power BI
+- **Tools:** Docker, Git, AWS, Ubuntu/WSL, LaTeX (Overleaf)
 
 ## Experience
 
