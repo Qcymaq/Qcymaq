@@ -1,38 +1,52 @@
-# Hi, I'm Mai Anh Quan 👋
+# Mai Anh Quan
 
-Welcome to my GitHub profile! I am passionate about Artificial Intelligence and dedicated to developing innovative solutions that benefit people. My journey in AI is fueled by a commitment to continuous learning and a drive to create impactful technologies.
+**AI graduate · Computer vision & full-stack AI apps**
 
-## About Me
+Ho Chi Minh City, Vietnam (UTC+7) · Open to freelance projects and full-time roles
 
-- 🎓 **Learner**: Currently a second-year university student majoring in Artificial Intelligence.
-- 💡 **Innovator**: Always excited about new challenges and opportunities to advance AI.
-- 🛠️ **Hands-on Experience**: Equipped with a solid foundation in AI through academic and practical experiences.
-- 📚 **Active Learner**: Enthusiastic about expanding my knowledge and skills.
-- 👂 **Attentive Listener**: Focused on understanding and solving real-world problems.
+I build AI systems end to end: model integration, backend, frontend, and deployment with Docker.
+I like turning a business problem into a working product.
+I have led small teams on both product and research projects.
 
-## My Vision
+## Featured projects
 
-I am committed to driving progress in AI and making a meaningful impact in the field. My goal is to apply my expertise to groundbreaking AI projects that advance the technology and solve real-world challenges. 
+- **[AIPS](https://github.com/kiokpam/AIPS)** – Multi-camera store analytics: people counting, zone-based behavior alerts, and Telegram/email notifications, running on-prem on one consumer GPU. *Project Lead (graduation project, team of 4); I built most of the FastAPI backend and Next.js frontend, the service that connects the CV models to the app, the notification service, the Docker setup, and the tests.*
+- **[Flashion](https://github.com/Qcymaq/Flashion)** – Beauty e-commerce web app with membership tiers, an admin dashboard, and photo-based virtual makeup try-on (MediaPipe FaceMesh). *Main developer on a team project; also did the market research and user surveys.*
+- **[Colorize](https://github.com/Qcymaq/Colorization-for-grayscale-images)** – Black-and-white photo colorization with ControlNet + Stable Diffusion, with a FastAPI inference endpoint and a Streamlit UI. *Team lead; I wrote the data preparation, the inference API, the Streamlit UI, and the model cache.*
+- **[Vietnamese traditional music genre classification](https://github.com/Qcymaq/PCRNN-CRNN-VNTM-MGC)** – Audio models that classify Vietnamese traditional music by genre. *Team research (team of 7). ICCRI 2024 paper on CRNN/PCRNN models (corresponding author; I wrote the CRNN/PCRNN notebooks). Related JCSSE 2024 IEEE paper comparing DenseNet models (3rd author; [code](https://github.com/Bui-Tung-Hung/LateFusionCNN-DenseNet121-VNTM-MGC)). 3rd prize, FPT ResFes 2024, Research category.*
 
-## Let's Connect!
+## What I can build for you
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/mai-anh-quan)
-- **Email**: Feel free to reach out to me at quancsf@gmail.com
-- **GitHub**: Check out my projects and contributions at [https://github.com/Qcymaq](https://github.com/Qcymaq)
+- Integrating computer-vision models into a working video-analytics app (people counting, zone alerts) on your existing cameras, running on-prem
+- A web app around your AI prototype (FastAPI, Next.js/React, WebSockets, Docker)
+- Web apps with AI features and an admin dashboard
+- Photo colorization with diffusion models (ControlNet + Stable Diffusion)
+- Audio classification models (CRNN/PCRNN)
 
-Thank you for visiting my profile! Together, let's drive the future of AI forward.
+## Tech I have used in real projects
 
-<!--
-**Qcymaq/Qcymaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages:** Python, SQL, TypeScript
+- **Backend and web:** FastAPI, Streamlit, Next.js, React
+- **Databases:** MongoDB, PostgreSQL
+- **AI / ML:** PyTorch, TensorFlow/Keras, YOLOv8, DeepSORT, ONNX Runtime, Stable Diffusion, ControlNet
+- **Data and BI:** Power BI
+- **Tools:** Docker, Git, AWS, Ubuntu/WSL, LaTeX (Overleaf)
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Pythera AI** – AI Intern & Sub-team Leader (09/2024 – 02/2025). Volunteered to lead a 3-person research sub-team on color restoration of low-light photos; wrote step-by-step onboarding SOPs in Notion.
+- **Cinnamon AI Bootcamp 2024** – Trainee (06/2024 – 08/2024). Worked on team projects; wrote the CLIP image-encoding module of a team image-search project.
+
+## Education
+
+- **B.Sc. in Artificial Intelligence**, FPT University Ho Chi Minh City (2022 – 2026)
+
+## Languages
+
+Vietnamese (native) · English · German (learning)
+
+## Contact
+
+- **Email:** [quanmaianh.work@gmail.com](mailto:quanmaianh.work@gmail.com)
+- **LinkedIn:** [linkedin.com/in/maq159](https://www.linkedin.com/in/maq159)
+- **GitHub:** [all repositories](https://github.com/Qcymaq?tab=repositories)
